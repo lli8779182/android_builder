@@ -991,7 +991,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC90cy90di9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sbGk4Nzc5MTgyL2FuZHJvaWRfYnVpbGRlci9tYWluL3piLmpzb24="
           ]
         }
       ]
